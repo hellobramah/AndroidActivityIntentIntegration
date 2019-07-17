@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android-Activity-Intent-Integration</string>
+    <string name="main_activity_title">ALC 4 Phase 1</string>
+    <string name="about_activity_title">My Profile</string>
+    <string name="profile_activity_title">About ALC</string>
+    <string name="about_button_name">About ALC</string>
+    <string name="profile_button_name">My Profile</string>
+    <string name="greeting">Welcome to ALC 4.0</string>
+    <string name="slack_name">Slack Username: hellobramah</string>
+    <string name="phone_number">Phone Number: +233557595400</string>
+    <string name="email">Email: hellobramah@gmail.com</string>
+    <string name="country">Country: Ghana</string>
+    <string name="track">Track: Android</string>
+    <string name="full_name">Name: Alex Bramah-Lawani</string>
+
+
+</resources>
